@@ -1,5 +1,4 @@
-# Project Name
-BlogMe
+# BlogMe Project
 
 # Introduction
 A Blog created using Node.JS, Express, and MongoDB along with several other 3rd party packages all listed in the dependencies part in the package file with the exact versions used.
